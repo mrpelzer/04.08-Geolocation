@@ -46,7 +46,7 @@ On line 16, enter the following code: `navigator.geolocation.watchPosition(showP
 
 - inside update the map.setCenter property value by passing within the array
 
-    - latitude, longitude values *lik in the showPosition method
+    - longitude, latitude values *lik in the showPosition method
 
 - Example: [Documentation](https://docs.mapbox.com/mapbox-gl-js/api/map/#map#setcenter)
 
