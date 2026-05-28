@@ -24,7 +24,7 @@ function showPosition(position) {
 
 //
 function createMap(){
-    //mapboxgl.accessToken = 'pk.eyJ1IjoibXJwZWx6ZXIiLCJhIjoiY2xmc2tramhxMDZ6bDNkb2FvNGF4bXV5ciJ9.AAoxzCpo6RSSssxanz2mmg';
+    //mapboxgl.accessToken = 
 
     const map = new mapboxgl.Map({
         container: 'map',

@@ -50,4 +50,6 @@ On line 16, enter the following code: `navigator.geolocation.watchPosition(showP
 
 - Example: [Documentation](https://docs.mapbox.com/mapbox-gl-js/api/map/#map#setcenter)
 
+- copy the token in the Google classroom assignment and paste it at the end of accessToken
+
 - uncomment mapboxgl.accessToken
