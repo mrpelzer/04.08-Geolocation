@@ -24,7 +24,7 @@ function showPosition(position) {
 
 //
 function createMap(){
-    //mapboxgl.accessToken = 
+    //mapboxgl.accessToken = ""
 
     const map = new mapboxgl.Map({
         container: 'map',
