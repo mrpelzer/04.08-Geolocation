@@ -35,3 +35,19 @@ On line 16, enter the following code: `navigator.geolocation.watchPosition(showP
 - Notice that the watchPosition method is now in place of the getCurrentPosition method from Part 1.
 
 - The rest is the same - instead of checking your position once, this will check your position continuously (if you were previewing this on a mobile phone, you would see the coordinates update as you move).
+
+## CHALLENGE
+
+- update the showPosition(position) by calling createMap
+
+- pass the parameter position
+
+- update the createMap method by adding the parameter position
+
+- inside update the map.setCenter property value by passing within the array
+
+    - latitude, longitude values *lik in the showPosition method
+
+- Example: [Documentation](https://docs.mapbox.com/mapbox-gl-js/api/map/#map#setcenter)
+
+- uncomment mapboxgl.accessToken
